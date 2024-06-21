@@ -12,5 +12,4 @@
   <img align="center" alt="Carlos-Bahia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carlos-Bahia-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-Bahia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Carlos-Bahia" src="https://cdn.discordapp.com/attachments/773239503519350845/876840033498333184/PAIEquemcria..gif">  
 </div>
