@@ -1,7 +1,6 @@
 ## Olá, sou Carlos Eduardo Bahia
 <div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Bahia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bahia&layout=compact&theme=radical"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bahia&layout=compact&theme=radical"/>
 </div>
 
 ## Linguagens e Tecnologias
