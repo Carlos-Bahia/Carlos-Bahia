@@ -1,6 +1,6 @@
 ## Olá, sou Carlos Eduardo Bahia
 <div align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bahia&layout=compact&theme=radical"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bahia&layout=compact&theme=radical"/>
 </div>
 
 ## Linguagens e Tecnologias
@@ -13,6 +13,7 @@
     <img align="center" alt="Carlos-Bahia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Carlos-Bahia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Carlos-Bahia-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Carlos-Bahia-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   </div>
 
   <div>
@@ -35,7 +36,6 @@
 
   <div>
     <h4>Tecnologias em Estudo</h4>
-    <img align="center" alt="Carlos-Bahia-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
     <img align="center" alt="Carlos-Bahia-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
     <img align="center" alt="Carlos-Bahia-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   </div>
